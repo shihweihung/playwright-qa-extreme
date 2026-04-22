@@ -1,0 +1,8 @@
+# 暫存檔
+*.log
+*.tmp
+node_modules/
+
+# 測試產出（不入 repo）
+qa-reports/
+screenshots/
